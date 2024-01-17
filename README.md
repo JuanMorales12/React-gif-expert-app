@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Hecho con yarn
+Hecho con react pagina: https://juanmorales12.github.io/React-gif-expert-app/
 
 # Description
 
